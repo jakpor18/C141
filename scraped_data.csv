@@ -1,0 +1,251 @@
+id,name,light_years_from_earth,planet_mass,stellar_magnitude,discovery_date
+0,11 Comae Berenices b,304,19.4 Jupiters,4.72307,2007
+1,11 Ursae Minoris b,409,14.74 Jupiters,5.013,2009
+2,14 Andromedae b,246,4.8 Jupiters,5.23133,2008
+3,14 Herculis b,58,8.13881 Jupiters,6.61935,2002
+4,16 Cygni B b,69,1.78 Jupiters,6.215,1996
+5,17 Scorpii b,408,4.32 Jupiters,5.22606,2020
+6,18 Delphini b,249,10.3 Jupiters,5.51048,2008
+7,1RXS J160929.1-210524 b,454,8 Jupiters,12.618,2008
+8,24 Bootis b,313,0.91 Jupiters,5.59,2018
+9,24 Sextantis b,235,1.99 Jupiters,6.4535,2010
+10,24 Sextantis c,235,0.86 Jupiters,6.4535,2010
+11,2M0437 b,419,4 Jupiters,16.186,2021
+12,2MASS J01033563-5515561 AB b,154,13 Jupiters,15.788,2013
+13,2MASS J01225093-2439505 b,110,24.5 Jupiters,14.244,2013
+14,2MASS J02192210-3925225 b,131,13.9 Jupiters,,2015
+15,2MASS J04414489+2301513 b,393,7.5 Jupiters,,2010
+16,2MASS J12073346-3932539 b,210,5 Jupiters,20.15,2004
+17,2MASS J19383260+4603591 b,1293,1.9 Jupiters,12.651,2015
+18,2MASS J22362452+4751425 b,227,12.5 Jupiters,12.368,2016
+19,30 Arietis B b,146,13.82 Jupiters,7.09209,2009
+20,42 Draconis b,296,3.88 Jupiters,4.8262,2008
+21,47 Ursae Majoris b,45,2.53 Jupiters,5.03352,1996
+22,47 Ursae Majoris c,45,0.54 Jupiters,5.03352,2001
+23,47 Ursae Majoris d,45,1.64 Jupiters,5.03352,2009
+24,4 Ursae Majoris b,240,7.1 Jupiters,4.5801,2006
+25,11 Comae Berenices b,304,19.4 Jupiters,4.72307,2007
+26,11 Ursae Minoris b,409,14.74 Jupiters,5.013,2009
+27,14 Andromedae b,246,4.8 Jupiters,5.23133,2008
+28,14 Herculis b,58,8.13881 Jupiters,6.61935,2002
+29,16 Cygni B b,69,1.78 Jupiters,6.215,1996
+30,17 Scorpii b,408,4.32 Jupiters,5.22606,2020
+31,18 Delphini b,249,10.3 Jupiters,5.51048,2008
+32,1RXS J160929.1-210524 b,454,8 Jupiters,12.618,2008
+33,24 Bootis b,313,0.91 Jupiters,5.59,2018
+34,24 Sextantis b,235,1.99 Jupiters,6.4535,2010
+35,24 Sextantis c,235,0.86 Jupiters,6.4535,2010
+36,2M0437 b,419,4 Jupiters,16.186,2021
+37,2MASS J01033563-5515561 AB b,154,13 Jupiters,15.788,2013
+38,2MASS J01225093-2439505 b,110,24.5 Jupiters,14.244,2013
+39,2MASS J02192210-3925225 b,131,13.9 Jupiters,,2015
+40,2MASS J04414489+2301513 b,393,7.5 Jupiters,,2010
+41,2MASS J12073346-3932539 b,210,5 Jupiters,20.15,2004
+42,2MASS J19383260+4603591 b,1293,1.9 Jupiters,12.651,2015
+43,2MASS J22362452+4751425 b,227,12.5 Jupiters,12.368,2016
+44,30 Arietis B b,146,13.82 Jupiters,7.09209,2009
+45,42 Draconis b,296,3.88 Jupiters,4.8262,2008
+46,47 Ursae Majoris b,45,2.53 Jupiters,5.03352,1996
+47,47 Ursae Majoris c,45,0.54 Jupiters,5.03352,2001
+48,47 Ursae Majoris d,45,1.64 Jupiters,5.03352,2009
+49,4 Ursae Majoris b,240,7.1 Jupiters,4.5801,2006
+50,11 Comae Berenices b,304,19.4 Jupiters,4.72307,2007
+51,11 Ursae Minoris b,409,14.74 Jupiters,5.013,2009
+52,14 Andromedae b,246,4.8 Jupiters,5.23133,2008
+53,14 Herculis b,58,8.13881 Jupiters,6.61935,2002
+54,16 Cygni B b,69,1.78 Jupiters,6.215,1996
+55,17 Scorpii b,408,4.32 Jupiters,5.22606,2020
+56,18 Delphini b,249,10.3 Jupiters,5.51048,2008
+57,1RXS J160929.1-210524 b,454,8 Jupiters,12.618,2008
+58,24 Bootis b,313,0.91 Jupiters,5.59,2018
+59,24 Sextantis b,235,1.99 Jupiters,6.4535,2010
+60,24 Sextantis c,235,0.86 Jupiters,6.4535,2010
+61,2M0437 b,419,4 Jupiters,16.186,2021
+62,2MASS J01033563-5515561 AB b,154,13 Jupiters,15.788,2013
+63,2MASS J01225093-2439505 b,110,24.5 Jupiters,14.244,2013
+64,2MASS J02192210-3925225 b,131,13.9 Jupiters,,2015
+65,2MASS J04414489+2301513 b,393,7.5 Jupiters,,2010
+66,2MASS J12073346-3932539 b,210,5 Jupiters,20.15,2004
+67,2MASS J19383260+4603591 b,1293,1.9 Jupiters,12.651,2015
+68,2MASS J22362452+4751425 b,227,12.5 Jupiters,12.368,2016
+69,30 Arietis B b,146,13.82 Jupiters,7.09209,2009
+70,42 Draconis b,296,3.88 Jupiters,4.8262,2008
+71,47 Ursae Majoris b,45,2.53 Jupiters,5.03352,1996
+72,47 Ursae Majoris c,45,0.54 Jupiters,5.03352,2001
+73,47 Ursae Majoris d,45,1.64 Jupiters,5.03352,2009
+74,4 Ursae Majoris b,240,7.1 Jupiters,4.5801,2006
+75,11 Comae Berenices b,304,19.4 Jupiters,4.72307,2007
+76,11 Ursae Minoris b,409,14.74 Jupiters,5.013,2009
+77,14 Andromedae b,246,4.8 Jupiters,5.23133,2008
+78,14 Herculis b,58,8.13881 Jupiters,6.61935,2002
+79,16 Cygni B b,69,1.78 Jupiters,6.215,1996
+80,17 Scorpii b,408,4.32 Jupiters,5.22606,2020
+81,18 Delphini b,249,10.3 Jupiters,5.51048,2008
+82,1RXS J160929.1-210524 b,454,8 Jupiters,12.618,2008
+83,24 Bootis b,313,0.91 Jupiters,5.59,2018
+84,24 Sextantis b,235,1.99 Jupiters,6.4535,2010
+85,24 Sextantis c,235,0.86 Jupiters,6.4535,2010
+86,2M0437 b,419,4 Jupiters,16.186,2021
+87,2MASS J01033563-5515561 AB b,154,13 Jupiters,15.788,2013
+88,2MASS J01225093-2439505 b,110,24.5 Jupiters,14.244,2013
+89,2MASS J02192210-3925225 b,131,13.9 Jupiters,,2015
+90,2MASS J04414489+2301513 b,393,7.5 Jupiters,,2010
+91,2MASS J12073346-3932539 b,210,5 Jupiters,20.15,2004
+92,2MASS J19383260+4603591 b,1293,1.9 Jupiters,12.651,2015
+93,2MASS J22362452+4751425 b,227,12.5 Jupiters,12.368,2016
+94,30 Arietis B b,146,13.82 Jupiters,7.09209,2009
+95,42 Draconis b,296,3.88 Jupiters,4.8262,2008
+96,47 Ursae Majoris b,45,2.53 Jupiters,5.03352,1996
+97,47 Ursae Majoris c,45,0.54 Jupiters,5.03352,2001
+98,47 Ursae Majoris d,45,1.64 Jupiters,5.03352,2009
+99,4 Ursae Majoris b,240,7.1 Jupiters,4.5801,2006
+100,BD+63 1405 b,124,3.96 Jupiters,8.96,2021
+101,Beta Cancri b,290,7.8 Jupiters,3.51012,2014
+102,Beta Pictoris b,64,11.73313 Jupiters,3.85,2008
+103,Beta Pictoris c,64,10.14112 Jupiters,3.85,2019
+104,Beta Ursae Minoris b,126,6.1 Jupiters,2.0569,2014
+105,CD Ceti b,28,3.95 Earths,13.95,2020
+106,CFBDSIR J145829+101343 b,75,10.5 Jupiters,,2011
+107,CFHTWIR-Oph 98 b,,7.8 Jupiters,,2021
+108,CHXR 73 b,621,12.569 Jupiters,,2006
+109,CI Tauri b,515,11.6 Jupiters,13.642,2019
+110,COCONUTS-2 b,36,6.3 Jupiters,11.298,2021
+111,CoRoT-10 b,1104,2.75 Jupiters,15.293,2010
+112,CoRoT-11 b,2137,2.33 Jupiters,12.897,2010
+113,CoRoT-12 b,3674,0.917 Jupiters,15.588,2010
+114,CoRoT-13 b,3748,1.308 Jupiters,15.005,2010
+115,CoRoT-14 b,5691,7.6 Jupiters,15.932,2010
+116,CoRoT-16 b,2389,0.535 Jupiters,16.052,2011
+117,CoRoT-17 b,3837,2.43 Jupiters,16.29,2011
+118,CoRoT-18 b,2495,3.47 Jupiters,14.868,2011
+119,CoRoT-19 b,2579,1.11 Jupiters,14.135,2011
+120,CoRoT-1 b,2570,1.03 Jupiters,13.623,2008
+121,CoRoT-20 b,2753,4.3 Jupiters,14.63,2011
+122,CoRoT-20 c,2753,17 Jupiters,14.63,2018
+123,CoRoT-21 b,4563,2.26 Jupiters,16.058,2012
+124,CoRoT-22 b,2046,12.2 Earths,13.82,2014
+125,CoRoT-23 b,3461,2.8 Jupiters,15.675,2011
+126,CoRoT-24 b,1930,5.7 Earths,15.383,2014
+127,CoRoT-24 c,1930,28 Earths,15.383,2014
+128,CoRoT-25 b,3600,0.27 Jupiters,14.79,2013
+129,CoRoT-26 b,3409,0.52 Jupiters,15.861,2013
+130,CoRoT-27 b,3296,10.39 Jupiters,15.774,2014
+131,CoRoT-28 b,2499,0.484 Jupiters,13.783,2015
+132,CoRoT-29 b,2631,0.85 Jupiters,15.408,2015
+133,CoRoT-2 b,696,3.47 Jupiters,12.516,2008
+134,CoRoT-30 b,3367,2.9 Jupiters,15.571,2020
+135,CoRoT-31 b,6543,0.84 Jupiters,15.479,2020
+136,CoRoT-35 b,3664,1.1 Jupiters,15.635,2022
+137,CoRoT-36 b,3020,0.68 Jupiters,13.126,2022
+138,CoRoT-3 b,2508,21.66 Jupiters,13.448,2008
+139,CoRoT-4 b,2370,0.72 Jupiters,13.652,2008
+140,CoRoT-5 b,2879,0.467 Jupiters,14.043,2009
+141,CoRoT-6 b,2105,2.96 Jupiters,13.961,2009
+142,CoRoT-7 b,522,4.07661 Earths,11.728,2009
+143,CoRoT-7 c,522,8.4 Earths,11.728,2009
+144,CoRoT-7 d,522,17.142 Earths,11.728,2022
+145,CoRoT-8 b,1050,0.22 Jupiters,14.792,2010
+146,CoRoT-9 b,1347,0.84 Jupiters,13.637,2009
+147,CoRoTID 223977153 b,1881,0.15 Jupiters,13.626,2017
+148,CT Chamaleontis b,622,17 Jupiters,12.335,2007
+149,DE Canum Venaticorum b,100,12.0293 Jupiters,12.956,2018
+150,CoRoT-23 b,3461,2.8 Jupiters,15.675,2011
+151,CoRoT-24 b,1930,5.7 Earths,15.383,2014
+152,CoRoT-24 c,1930,28 Earths,15.383,2014
+153,CoRoT-25 b,3600,0.27 Jupiters,14.79,2013
+154,CoRoT-26 b,3409,0.52 Jupiters,15.861,2013
+155,CoRoT-27 b,3296,10.39 Jupiters,15.774,2014
+156,CoRoT-28 b,2499,0.484 Jupiters,13.783,2015
+157,CoRoT-29 b,2631,0.85 Jupiters,15.408,2015
+158,CoRoT-2 b,696,3.47 Jupiters,12.516,2008
+159,CoRoT-30 b,3367,2.9 Jupiters,15.571,2020
+160,CoRoT-31 b,6543,0.84 Jupiters,15.479,2020
+161,CoRoT-35 b,3664,1.1 Jupiters,15.635,2022
+162,CoRoT-36 b,3020,0.68 Jupiters,13.126,2022
+163,CoRoT-3 b,2508,21.66 Jupiters,13.448,2008
+164,CoRoT-4 b,2370,0.72 Jupiters,13.652,2008
+165,CoRoT-5 b,2879,0.467 Jupiters,14.043,2009
+166,CoRoT-6 b,2105,2.96 Jupiters,13.961,2009
+167,CoRoT-7 b,522,4.07661 Earths,11.728,2009
+168,CoRoT-7 c,522,8.4 Earths,11.728,2009
+169,CoRoT-7 d,522,17.142 Earths,11.728,2022
+170,CoRoT-8 b,1050,0.22 Jupiters,14.792,2010
+171,CoRoT-9 b,1347,0.84 Jupiters,13.637,2009
+172,CoRoTID 223977153 b,1881,0.15 Jupiters,13.626,2017
+173,CT Chamaleontis b,622,17 Jupiters,12.335,2007
+174,DE Canum Venaticorum b,100,12.0293 Jupiters,12.956,2018
+175,CoRoT-23 b,3461,2.8 Jupiters,15.675,2011
+176,CoRoT-24 b,1930,5.7 Earths,15.383,2014
+177,CoRoT-24 c,1930,28 Earths,15.383,2014
+178,CoRoT-25 b,3600,0.27 Jupiters,14.79,2013
+179,CoRoT-26 b,3409,0.52 Jupiters,15.861,2013
+180,CoRoT-27 b,3296,10.39 Jupiters,15.774,2014
+181,CoRoT-28 b,2499,0.484 Jupiters,13.783,2015
+182,CoRoT-29 b,2631,0.85 Jupiters,15.408,2015
+183,CoRoT-2 b,696,3.47 Jupiters,12.516,2008
+184,CoRoT-30 b,3367,2.9 Jupiters,15.571,2020
+185,CoRoT-31 b,6543,0.84 Jupiters,15.479,2020
+186,CoRoT-35 b,3664,1.1 Jupiters,15.635,2022
+187,CoRoT-36 b,3020,0.68 Jupiters,13.126,2022
+188,CoRoT-3 b,2508,21.66 Jupiters,13.448,2008
+189,CoRoT-4 b,2370,0.72 Jupiters,13.652,2008
+190,CoRoT-5 b,2879,0.467 Jupiters,14.043,2009
+191,CoRoT-6 b,2105,2.96 Jupiters,13.961,2009
+192,CoRoT-7 b,522,4.07661 Earths,11.728,2009
+193,CoRoT-7 c,522,8.4 Earths,11.728,2009
+194,CoRoT-7 d,522,17.142 Earths,11.728,2022
+195,CoRoT-8 b,1050,0.22 Jupiters,14.792,2010
+196,CoRoT-9 b,1347,0.84 Jupiters,13.637,2009
+197,CoRoTID 223977153 b,1881,0.15 Jupiters,13.626,2017
+198,CT Chamaleontis b,622,17 Jupiters,12.335,2007
+199,DE Canum Venaticorum b,100,12.0293 Jupiters,12.956,2018
+200,51 Eridani b,97,2 Jupiters,5.21149,2015
+201,51 Pegasi b,50,0.46 Jupiters,5.45309,1995
+202,55 Cancri b,41,0.8306 Jupiters,5.95084,1996
+203,55 Cancri c,41,0.1714 Jupiters,5.95084,2004
+204,55 Cancri d,41,3.878 Jupiters,5.95084,2002
+205,55 Cancri e,41,7.99 Earths,5.95084,2004
+206,55 Cancri f,41,0.141 Jupiters,5.95084,2007
+207,61 Virginis b,28,5.1 Earths,4.6955,2009
+208,61 Virginis c,28,18.2 Earths,4.6955,2009
+209,61 Virginis d,28,22.9 Earths,4.6955,2009
+210,6 Lyncis b,178,2.01 Jupiters,5.87307,2008
+211,70 Virginis b,58,7.49 Jupiters,4.96808,1996
+212,75 Ceti b,271,3 Jupiters,5.3532,2012
+213,7 Canis Majoris b,65,1.85 Jupiters,3.95,2011
+214,7 Canis Majoris c,65,0.87 Jupiters,3.95,2019
+215,81 Ceti b,330,5.3 Jupiters,5.64307,2008
+216,8 Ursae Minoris b,530,1.31 Jupiters,6.83295,2015
+217,91 Aquarii b,144,3.2 Jupiters,4.23946,2013
+218,AB Aurigae b,529,9 Jupiters,7.076,2022
+219,AB Pictoris b,163,13.5 Jupiters,9.13,2005
+220,AF Leporis b,88,5.237 Jupiters,6.332,2023
+221,Alpha Arietis b,66,1.8 Jupiters,2.00538,2010
+222,Alpha Tauri b,67,6.47 Jupiters,0.872,2015
+223,AU Microscopii b,32,20.12 Earths,8.81,2020
+224,AU Microscopii c,32,9.6 Earths,8.81,2021
+225,51 Eridani b,97,2 Jupiters,5.21149,2015
+226,51 Pegasi b,50,0.46 Jupiters,5.45309,1995
+227,55 Cancri b,41,0.8306 Jupiters,5.95084,1996
+228,55 Cancri c,41,0.1714 Jupiters,5.95084,2004
+229,55 Cancri d,41,3.878 Jupiters,5.95084,2002
+230,55 Cancri e,41,7.99 Earths,5.95084,2004
+231,55 Cancri f,41,0.141 Jupiters,5.95084,2007
+232,61 Virginis b,28,5.1 Earths,4.6955,2009
+233,61 Virginis c,28,18.2 Earths,4.6955,2009
+234,61 Virginis d,28,22.9 Earths,4.6955,2009
+235,6 Lyncis b,178,2.01 Jupiters,5.87307,2008
+236,70 Virginis b,58,7.49 Jupiters,4.96808,1996
+237,75 Ceti b,271,3 Jupiters,5.3532,2012
+238,7 Canis Majoris b,65,1.85 Jupiters,3.95,2011
+239,7 Canis Majoris c,65,0.87 Jupiters,3.95,2019
+240,81 Ceti b,330,5.3 Jupiters,5.64307,2008
+241,8 Ursae Minoris b,530,1.31 Jupiters,6.83295,2015
+242,91 Aquarii b,144,3.2 Jupiters,4.23946,2013
+243,AB Aurigae b,529,9 Jupiters,7.076,2022
+244,AB Pictoris b,163,13.5 Jupiters,9.13,2005
+245,AF Leporis b,88,5.237 Jupiters,6.332,2023
+246,Alpha Arietis b,66,1.8 Jupiters,2.00538,2010
+247,Alpha Tauri b,67,6.47 Jupiters,0.872,2015
+248,AU Microscopii b,32,20.12 Earths,8.81,2020
+249,AU Microscopii c,32,9.6 Earths,8.81,2021
